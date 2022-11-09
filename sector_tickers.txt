@@ -1,0 +1,7 @@
+SPDR MSCI World Communication Services UCITS ETF
+iShares MSCI World Consumer Discretionary Sector UCITS ETF
+iShares MSCI World Consumer Staples Sector UCITS ETF
+
+WTEL.AS
+WCDS.AS
+WCSS.SW
